@@ -8,6 +8,9 @@ header {
   width: 100%;
   padding: 20px;
 }
+#logo {
+  border: none;
+}
 
 nav {
   display: inline-block;
@@ -76,6 +79,7 @@ footer {
 }
 
 .introduction {
+  background-color: white;
 }
 
 #badge {
