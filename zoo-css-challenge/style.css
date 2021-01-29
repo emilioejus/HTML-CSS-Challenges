@@ -11,6 +11,13 @@ header {
 #logo {
   border: none;
 }
+p {
+  margin-bottom: 70px;
+  margin-top: 0px;
+}
+.bears > p {
+  margin-bottom: 30px;
+}
 
 nav {
   display: inline-block;
@@ -52,10 +59,12 @@ h1 {
 
 h2 {
   font-size: 175%;
+  margin-bottom: 0px;
 }
 
 h3 {
   font-size: 150%;
+  margin-bottom: 0px
 }
 
 button {
@@ -109,11 +118,12 @@ footer {
 
 .image-container img {
   vertical-align: top;
-  border: 5px solid #747c92;
+  margin: 10px 10px 10px 0px;
+  border: 5px solid #003A21;
 }
 
 .image-container img:first-of-type {
-  vertical-align: bottom;
+  
 }
 
 .tigers {
