@@ -18,6 +18,12 @@ p {
 .bears > p {
   margin-bottom: 30px;
 }
+.giraffe > p {
+  color: #BEEE62;
+}
+.giraffe > p:first-of-type {
+  font-size: 20px;
+}
 
 nav {
   display: inline-block;
@@ -132,13 +138,14 @@ footer {
 }
 
 .giraffe {
-  background-color: #465775;
+  background-color: #483C46,;
   color: #56e39f;
 }
 
-.giraffe h2 {
-  color: #ef6f6c;
+.giraffe h2, h3 {
+  color: #F4743B;
 }
+
 
 .card {
   display: inline-block;
