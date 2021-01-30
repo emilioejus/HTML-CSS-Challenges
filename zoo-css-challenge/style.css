@@ -217,6 +217,10 @@ footer {
 .membership strong {
   color: #ff7f11;
 }
+.membership p {
+  width: 700px;
+  margin: 20px 355px 20px 355px;
+}
 
 /*Programs*/
 
